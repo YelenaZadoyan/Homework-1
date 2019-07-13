@@ -1,0 +1,20 @@
+body{background: lightgrey}
+p#YZ:hover{background-color: white;
+			font-size: 16pt;
+			font-family: Academy Ho;
+			color: darkblue; }
+p.Y{text-decoration: underline;}
+
+th{font-size: 20pt;
+		color: darkblue;
+		font-family: Academy Ho;}
+
+td{font-style:  italic;
+		}
+div.My_list{font-style: italic;
+	border: 2px solid;}
+
+a#next{	background-color: blue
+		border: 2px;
+		display: inline-block;
+		padding: 8px, 16px}
